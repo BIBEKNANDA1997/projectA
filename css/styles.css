@@ -1,0 +1,279 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.first {
+  margin: 0;
+  padding: 0;
+}
+
+.logo1 {
+  padding-left: 70px;
+  padding-top: 50px;
+}
+
+ul {
+  list-style-type: none;
+}
+.navbar {
+  display: inline-block;
+  text-align: right;
+  position: absolute;
+  right: 5%;
+  top: 6%;
+}
+
+.hor {
+  display: inline;
+  padding-right: 30px;
+}
+
+.Header-link {
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  text-decoration: none;
+}
+
+/*font-family: 'Open Sans', sans-serif;*/
+.second {
+  padding: 8%;
+  margin-bottom: 250px;
+}
+
+.pic1 {
+  max-width: 40%;
+  height: auto;
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+
+.para1 {
+  width: 50%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.large {
+  font-size: 2.8em;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bolder;
+}
+
+.email1 {
+  height: 45px;
+  width: 30%;
+  border-width: thin;
+  border-color: black;
+}
+
+::placeholder {
+  padding-left: 30px;
+  font-size: 1.2em;
+  font-family: 'Raleway', sans-serif;
+}
+
+.GetStarted1 {
+  background-color: hsl(224, 93%, 58%);
+  color: white;
+  font-size: 0.8em;
+  font-family: 'Raleway', sans-serif;
+  width: 15%;
+  height: 50px;
+  border-color: black;
+  border-width: thin;
+  border-radius: 5px;
+}
+
+form {
+  margin-top: 20px;
+}
+
+:placeholder-shown {
+  margin-right: 30px;
+}
+
+.pic2 {
+  max-width: 35%;
+  height: auto;
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+
+.design {
+  width: 100%;
+  margin: -150px 0 0 0;
+  padding: 0;
+}
+
+.third {
+  background-color: hsl(240, 75%, 98%);
+  margin: 0;
+  padding-bottom: 80px;
+}
+
+.text2 {
+  margin-left: 120px;
+  font-size: 2.8em;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bolder;
+}
+.mar{
+  width: 40%;
+  margin-top: 40px;
+  margin-left: 120px;
+
+}
+.greenunder{
+  width: 40%;
+  margin-top: 40px;
+  margin-left: 120px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: hsl(170, 45%, 43%);
+  margin-bottom:  0;
+}
+.arrow{
+  float:right;
+  position: relative;
+  bottom: 18px;
+  right: 700px;
+  margin-bottom:  0;
+
+}
+.line{
+  border: solid;
+  border-color: hsl(170, 45%, 43%);
+  max-width: 11%;
+  border-width: thin;
+  margin-top: 5px;
+  margin-left: 120px;
+}
+.textbox{
+   box-shadow: 0px 0px 8px 1px #e9e5dd;
+   background-color: white;
+   max-width : 18%;
+    margin-left: 120px;
+   padding: 15px;
+   border-radius: 5px;
+   text-align: left;
+}
+.mar1{
+  margin-top: 0;
+}
+.avatar{
+  border-radius: 100%;
+  max-width: 10%;
+  float: left;
+}
+.avatartext{
+padding-left: 45px;
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.forth{
+  background-color: hsl(238, 22%, 44%);
+  color: white;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.text3{
+  margin-top: 0;
+  margin-left: 120px;
+  font-size: 2.3em;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bolder;
+  width: 40%;
+  margin-bottom: 0;
+}
+.para2{
+
+    width:35%;
+    margin-top: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-left: 120px;
+}
+.side1{
+  float: right;
+  position: relative;
+  bottom: 145px;
+  right : 80px;
+}
+.side2{
+  float: right;
+  position: relative;
+  bottom: 80px;
+  left : 150px;
+
+}
+.fifth{
+  padding: 90px 0 30px 120px;
+  background-color: hsl(243, 87%, 12%);
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+.phone{
+  /*max-width: 20px;
+  filter: invert(100%);*/
+  float: left;
+  padding-right: 30px;
+  position: relative;
+  top :10px;
+}
+.mail{
+  /*max-width: 30px;*/
+  float: left;
+  padding-right: 20px;
+  position: relative;
+  top :10px;
+}
+.ver{
+ line-height: 2.5;
+}
+
+.f1{
+  position: relative;
+  bottom: 40px;
+  right:40px;
+
+  padding-right: 150px;
+
+}
+.f2{
+
+  padding-right: 120px;
+
+}
+.f3{
+  padding-right: 120px;
+  position: relative;
+  bottom: 20px;
+}
+.f4{
+  position: relative;
+  bottom: 60px;
+  width : 20%;
+}
+.invert{
+  max-width: 8%;
+  filter: invert(100%);
+}
+.footer-link{
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: hsl(228, 45%, 44%);
+}
